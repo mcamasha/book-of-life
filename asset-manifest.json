@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/book-of-life/static/css/main.491bee12.chunk.css",
+    "main.js": "/book-of-life/static/js/main.ca84bcf2.chunk.js",
+    "main.js.map": "/book-of-life/static/js/main.ca84bcf2.chunk.js.map",
+    "runtime-main.js": "/book-of-life/static/js/runtime-main.ce8fea5e.js",
+    "runtime-main.js.map": "/book-of-life/static/js/runtime-main.ce8fea5e.js.map",
+    "static/js/2.8edbc5fb.chunk.js": "/book-of-life/static/js/2.8edbc5fb.chunk.js",
+    "static/js/2.8edbc5fb.chunk.js.map": "/book-of-life/static/js/2.8edbc5fb.chunk.js.map",
+    "index.html": "/book-of-life/index.html",
+    "precache-manifest.ca13315fb5634b892511b5bfd7895eac.js": "/book-of-life/precache-manifest.ca13315fb5634b892511b5bfd7895eac.js",
+    "service-worker.js": "/book-of-life/service-worker.js",
+    "static/css/main.491bee12.chunk.css.map": "/book-of-life/static/css/main.491bee12.chunk.css.map",
+    "static/media/logo.svg": "/book-of-life/static/media/logo.25bf045c.svg"
+  }
+}
